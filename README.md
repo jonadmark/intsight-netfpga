@@ -1,4 +1,7 @@
 
+    Copyright (c) 2020 Jonatas Adilson Marques
+    All rights reserved.
+
     Copyright (c) 2017 Stephen Ibanez
     All rights reserved.
    
