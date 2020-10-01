@@ -8,7 +8,7 @@ This repository provides an environment to compile the IntSight P4 program to th
 
 https://github.com/NetFPGA/P4-NetFPGA-public/wiki
 
-## Performance Evalution
+## Performance Evaluation
 
 To reproduce our performance evaluation of "Programmable Compute Resources", please follow the instructions in the following wiki up to "Step 10. Compile the bitstream".
 
