@@ -19,6 +19,6 @@ After these steps, resource usage reports can be generate in the command line us
 ```
 open_project hw/project/simple_sume_switch.xpr
 open_run impl_1
-report_utilization -file <OUTPUT_FILENAME>  # Overall report
-report_utilization -hierarchical -file <OUTPUT_FILENAME>  # Hierachically detailed report
+report_utilization -file <OUTPUT_FILENAME_1>  # Overall report
+report_utilization -hierarchical -file <OUTPUT_FILENAME_2>  # Hierachically detailed report
 ```
